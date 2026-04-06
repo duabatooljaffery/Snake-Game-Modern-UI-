@@ -37,11 +37,4 @@ NOVA SNAKE is a modern implementation of the classic Snake game built using HTML
 • Local Storage Integration
 
 ---
-
-
----
-
-
-
-
-bhi ready kar sakta hoon.
+<img width="340" height="422" alt="game" src="https://github.com/user-attachments/assets/2521dc10-d1b2-4402-b7b4-8377c5e89bee" />
