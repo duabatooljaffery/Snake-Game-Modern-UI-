@@ -1,4 +1,4 @@
-<img width="340" height="422" alt="game" src="https://github.com/user-attachments/assets/672ee567-f0ce-4cdf-925e-5e3b104c986a" />
+
 
 **NOVA SNAKE – MODERN SNAKE GAME**
 
@@ -37,6 +37,9 @@ NOVA SNAKE is a modern implementation of the classic Snake game built using HTML
 • Responsive Web Design
 • UI/UX Design
 • Local Storage Integration
+
+---
+<img width="340" height="422" alt="game" src="https://github.com/user-attachments/assets/672ee567-f0ce-4cdf-925e-5e3b104c986a" />
 
 ---
 
